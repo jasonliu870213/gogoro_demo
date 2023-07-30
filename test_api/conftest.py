@@ -14,4 +14,3 @@ if 'ENV_FILE' in os.environ:
 
 else:
     load_dotenv()
-    print('jason')
